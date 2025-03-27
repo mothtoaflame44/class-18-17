@@ -1,0 +1,34 @@
+ ============= Bootstrap ===============
+css---- casecading style sheet
+bootstrap ----- frame work of css
+ways of integrating bootstrap
+1.cdn link
+2.flie download
+ ============ grid system ============
+
+for grid system row class is compulsury
+
+
+Bootstraps color varitaion is only 8
+and for extra color or preference use custom css
+bg = background color
+text color - text
+colors in bootstrap-
+1. success
+2. info
+3. warning
+4. dangerous
+5. dark
+6. light
+7. primary
+8. secondary
+
+
+  device
+col-12
+col-sm
+col-md
+col-lg
+col-xl
+
+
